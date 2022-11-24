@@ -1,4 +1,13 @@
-## [0.1.1](https://github.com/baumrock/test/compare/v0.1.0...v0.1.1) (2022-11-24)
+# [0.2.0](https://github.com/baumrock/test/compare/v1.2.3...v0.2.0) (2022-11-24)
+
+
+### Features
+
+* add another test ([83b92a1](https://github.com/baumrock/test/commit/83b92a1453016a014cba7ae2c6d057ac5ed05f53))
+
+
+
+## [1.2.3](https://github.com/baumrock/test/compare/v0.1.1...v1.2.3) (2022-11-24)
 
 
 ### Bug Fixes
